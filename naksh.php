@@ -196,6 +196,12 @@
 								<p>India-231001</p>
 								<p>nakshcarpets@gmail.com</p>
 							</div>
+
+
+
+
+
+							
 						</div>
 
 						<div class="row" style="color: #000000; font-weight: none;">
